@@ -1,0 +1,16 @@
+{
+    "name": "mi-repositorio-prueba",
+    "version": "1.0.0",
+    "description": "Repositorio para pruebas de pipeline en Azure DevOps",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "10-B",
+    "license": "MIT",
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
